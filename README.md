@@ -1,2 +1,2 @@
 # HackerRank
-My HackerRank solution for Python
+My HackerRank solution for Python3
