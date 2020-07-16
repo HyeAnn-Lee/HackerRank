@@ -4,12 +4,11 @@ import os
 import sys
 
 def timeConversion(s):
-    PM = False
     time = s.split(':')
-    temp = list(time[2])
-    if temp[2] == 'P':
+    PM = False
+    if time[2][2] == 'P':
         PM = True
-    time[2] = ''.join(temp[:2])
+    time[2] = time[2][:2]
     
     if time[0] == '12':
         if not PM:
