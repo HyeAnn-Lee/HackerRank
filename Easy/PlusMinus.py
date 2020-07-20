@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/plus-minus/problem
+# https://www.hackerrank.com/challenges/plus-minus/problem
 
 import math
 import os
