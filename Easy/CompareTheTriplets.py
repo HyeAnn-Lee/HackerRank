@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/compare-the-triplets/problem
+# https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
 import math
 import os
