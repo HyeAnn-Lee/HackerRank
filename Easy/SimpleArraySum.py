@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/simple-array-sum/problem
+# https://www.hackerrank.com/challenges/simple-array-sum/problem
 
 import os
 import sys
