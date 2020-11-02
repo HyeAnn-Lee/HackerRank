@@ -12,10 +12,9 @@ def digit2word(n):
     return word[n-1]
 
 def deci2word(n):
-    if (n == 3):
-        return "half"
-    word = ["twenty", None, "fourty", "fifty"]
-    return word[n-2]
+    if (n == 2):
+        return "twenty"
+    return "half"
     
 def num2word(n):
     if (n < 10):
