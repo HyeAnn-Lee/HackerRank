@@ -8,10 +8,16 @@ import sys
 
 # Complete the formingMagicSquare function below.
 def absdif(s1, s2):
+    # 1.
+    '''
     result = 0
     for i in range(len(s1)):
         for j in range(len(s1[0])):
             result += abs(s1[i][j] - s2[i][j])
+    '''
+    
+    # 2.
+    result = sum([abs(s1[i][j] - s2[i][j]) for i in range(len(s1)) for j in range(len(s1[0]))])
     return result
 
 def formingMagicSquare(s):
