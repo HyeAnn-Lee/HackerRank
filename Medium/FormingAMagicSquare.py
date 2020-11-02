@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/magic-square-forming/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign
+# https://www.hackerrank.com/challenges/magic-square-forming/problem
 
 import math
 import os
